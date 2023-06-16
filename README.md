@@ -2,6 +2,8 @@
 
 JavaScript로 알고리즘을 익숙하게 만들기
 
+## Marathon Level 1
+
 1. [직사각형 별찍기](marathon_Lv0/01.js)
 2. [짝수와 홀수 ](marathon_Lv0/02.js)
 3. [가운데 글자 가져오기 ](marathon_Lv0/03.js)
@@ -30,3 +32,5 @@ JavaScript로 알고리즘을 익숙하게 만들기
 26. [ 제일 작은 수 제거하기 ](marathon_Lv0/26.js)
 27. [ 콜라츠 추측 ](marathon_Lv0/27.js)
 28. [ 하샤드 수](marathon_Lv0/28.js)
+
+## Challenge Level 2
