@@ -2,7 +2,7 @@
 
 ## JavaScript로 알고리즘을 익숙하게 만들기
 
----
+## ![ㅠ](/image/uu.png)
 
 ## Marathon Level 1
 
