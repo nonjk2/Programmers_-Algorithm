@@ -2,7 +2,24 @@
 
 ## JavaScript로 알고리즘을 익숙하게 만들기
 
-## ![ㅠ](/image/uu.png)
+<img src="/image/uu.png" width="500" height="500"/>
+
+## 스터디원🤔
+
+---
+
+<a href="https://github.com/nonjk2" >
+    <img src="https://github.com/nonjk2.png" width="100" height="100"/>
+</a>
+<a href="https://github.com/khu107" >
+    <img src="https://github.com/khu107.png" width="100" height="100"/>
+</a>
+<a href="https://github.com/soolovepat" >
+    <img src="https://github.com/soolovepat.png" width="100" height="100"/>
+</a>
+<a href="https://github.com/miinxxi" >
+    <img src="https://github.com/miinxxi.png" width="100" height="100"/>
+</a>
 
 ## Marathon Level 1
 
