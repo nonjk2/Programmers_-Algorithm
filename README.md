@@ -21,10 +21,14 @@
     <img src="https://github.com/miinxxi.png" width="100" height="100"/>
 </a>
 
+---
+
+# MVP ⭐️
+
 <img src="./image/vvv.jpeg" width="300" height="300"/>
 
-[👑 **1Lv** MVP](./marathon_Lv0/README.md)
-[👑 **2Lv** MVP](./challenge/README.md)
+[👑 **1Lv** ](./marathon_Lv0/README.md)
+[👑 **2Lv** ](./challenge/README.md)
 
 ## Marathon Level 1
 
