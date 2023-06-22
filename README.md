@@ -81,7 +81,17 @@
 
 ## Challengers Challenge
 
-40. [약수의 개수와 덧셈](challengers/41/README.md) [**🔗문제출처🔗**](https://programmers.co.kr/learn/courses/30/lessons/77884)
-41. [약수의 합](challengers/42/README.md) [**🔗문제출처🔗**](https://programmers.co.kr/learn/courses/30/lessons/12928)
-42.
-43.
+41. [약수의 개수와 덧셈](challengers/41/README.md) [**🔗문제출처🔗**](https://programmers.co.kr/learn/courses/30/lessons/77884)
+42. [약수의 합](challengers/42/README.md) [**🔗문제출처🔗**](https://programmers.co.kr/learn/courses/30/lessons/12928)
+43. [예산](challengers/43/README.md) [**🔗문제출처🔗**](https://programmers.co.kr/learn/courses/30/lessons/12982)
+44. [최대공약수와 최소공배수](challengers/44/README.md) [**🔗문제출처🔗**](https://programmers.co.kr/learn/courses/30/lessons/12940)
+45. [K번째 수](challengers/45/README.md) [**🔗문제출처🔗**](https://programmers.co.kr/learn/courses/30/lessons/12928)
+46. [나머지가 1이 되는 수](challengers/46/README.md) [**🔗문제출처🔗**](https://programmers.co.kr/learn/courses/30/lessons/87389)
+47. [소수 찾기](challengers/47/README.md) [**🔗문제출처🔗**](https://programmers.co.kr/learn/courses/30/lessons/12921)
+48. [실패율](challengers/48/README.md) [**🔗문제출처🔗**](https://programmers.co.kr/learn/courses/30/lessons/42889)
+
+## HANGHAE99 TEST
+
+1. [자연수 뒤집어 더하기](HangHaeTest/01/README.md)
+2. [Making Triangle](HangHaeTest/02/README.md)
+3. [양옆앞뒤 큰 수 찾기](HangHaeTest/03/README.md)
